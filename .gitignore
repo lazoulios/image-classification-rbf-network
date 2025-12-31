@@ -185,3 +185,6 @@ cython_debug/
 
 #models 
 /models/
+
+#latex files
+/tex/
